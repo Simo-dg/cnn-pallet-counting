@@ -38,6 +38,7 @@ Manual pallet counting is still widely used despite being error-prone and labor-
 A proprietary dataset of **112 real-world warehouse images** with manual annotations. Due to privacy concerns, the dataset is **not publicly available**. Contact for potential access or collaboration.
 
 ## 📂 Repository Structure
+
 ├── CNN-Pallet.ipynb 
 ├── dataset/ 
 │   ├── images/
