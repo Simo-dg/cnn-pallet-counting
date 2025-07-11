@@ -8,7 +8,6 @@ This repository provides a real-time solution for **automated pallet counting** 
 Manual pallet counting is still widely used despite being error-prone and labor-intensive. We propose an **ensemble of CNN backbones** to replace this with a vision-based system that is:
 
 - **Accurate**: MAE as low as 1.15 pallets
-- **Fast**: Inference in <75ms on commodity hardware
 - **Explainable**: Grad-CAM for model transparency
 
 ## 📊 Key Results
