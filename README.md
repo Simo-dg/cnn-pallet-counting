@@ -39,7 +39,6 @@ A proprietary dataset of **112 real-world warehouse images** with manual annotat
 
 ## 📂 Repository Structure
 
-.
 ├── CNN-Pallet.ipynb        
 ├── dataset/               
 │   ├── images/        
